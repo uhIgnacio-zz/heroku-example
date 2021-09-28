@@ -1,2 +1,1 @@
 nextcord
-python-dotenv
