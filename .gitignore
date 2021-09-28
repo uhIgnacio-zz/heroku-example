@@ -3,6 +3,4 @@
 spec/
 dist/
 config.json
-a.py
-Procfile.windows 
-# procfile.windows is due to most-likely brken on few things
+.env.example
